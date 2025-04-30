@@ -16,3 +16,4 @@ int main()
     printf("The div of %d/%d is %d \n",num1,num2,div);
     
      return 0;
+}
